@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Travelstop
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# angularproject
+we are buliding angular app
+>>>>>>> b78ebba9a9dce5ef82e72cf9288d34709f0d330f
